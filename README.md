@@ -1,2 +1,4 @@
 # LeetCodePractice
-A collection of my LeetCode practice solutions.
+
+- This repository contains my solutions to various LeetCode problems.
+- Solutions are organized by programming language (currently Python and more to come).
